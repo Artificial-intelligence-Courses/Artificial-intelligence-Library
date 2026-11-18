@@ -33,7 +33,7 @@ Philosophers asked whether correct reasoning follows rules, and if so, whether t
 Mathematics turned those philosophical hopes into formal tools:
 
 - **Logic.** George Boole's *The Laws of Thought* (1854) treated reasoning as algebra over true and false values. Gottlob Frege's *Begriffsschrift* (1879) extended this to first-order logic, the language still used in knowledge representation and automated theorem proving.
-- **Limits of computation.** Kurt Gödel's incompleteness theorems (1931) showed that sufficiently powerful formal systems contain true statements they cannot prove. In 1936 Alan Turing and Alonzo Church independently gave precise definitions of what can be computed at all. Turing's abstract machine became the model for every digital computer, and the notion of problems that are computable but intractable (too slow to solve in practice) shapes how AI systems approximate instead of solving exactly.
+- **Limits of computation.** Kurt Gödel's incompleteness theorems (1931) showed that any consistent formal system powerful enough to express basic arithmetic contains true statements it cannot prove. In 1936 Alan Turing and Alonzo Church independently gave precise definitions of what can be computed at all. Turing's abstract machine became the standard theoretical model of computation, and the notion of problems that are computable but intractable (too slow to solve in practice) shapes how AI systems approximate instead of solving exactly.
 - **Probability.** Bayes' rule, published posthumously in 1763, gives a principled way to update beliefs when new evidence arrives. It underlies spam filters, medical diagnosis systems, and the probabilistic view of machine learning.
 
 ### Economics: decisions and utility
